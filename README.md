@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 3. 运行脚本：
 ```bash
-python man2.py
+python man.py
 ```
 
 4. 查看结果：
