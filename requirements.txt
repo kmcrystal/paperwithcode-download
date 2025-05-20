@@ -1,0 +1,15 @@
+# HTTP请求和下载
+requests>=2.25.1
+urllib3>=1.26.5
+
+# HTML解析
+lxml>=4.6.3
+
+# 进度条显示
+tqdm>=4.61.0
+
+# 文件操作
+pathlib>=1.0.1
+
+# 系统操作
+python-dotenv>=0.19.0
