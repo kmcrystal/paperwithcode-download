@@ -23,8 +23,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/papers-with-code-downloader.git
-cd papers-with-code-downloader
+git clone https://github.com/kmcrystal/paperwithcode-download.git
+cd paperwithcode-download
 ```
 
 2. 安装依赖：
